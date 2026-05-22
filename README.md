@@ -11,7 +11,7 @@ Library Web Application developed as a technical test assignment for the **Red T
 * **Mock Backend Database:** `json-server` (REST API simulator)
 
 ---
-## 🔒 Administrative Access & Role Security
+## Administrative Access & Role Security
 
 While anyone can browse the directory of books and authors, **adding, editing, or deleting entries is  restricted to logged-in Admin accounts.** To access these management features, use the default admin credentials found inside the `users` array of your initialized `db.json` file:
 
